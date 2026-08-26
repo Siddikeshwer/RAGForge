@@ -2,7 +2,7 @@
 
 A Hybrid RAG application for asking questions across your documents.
 
-# RAGForge combines vector search + BM25 keyword search + reranking + LLM generation to produce grounded answers with source information.
+RAGForge combines vector search + BM25 keyword search + reranking + LLM generation to produce grounded answers with source information.
 
 ✨ Features
 
