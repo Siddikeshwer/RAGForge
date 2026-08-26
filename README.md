@@ -217,7 +217,11 @@ MODEL=stealth/ox-alpha
 
 ## 📸 Demo
 
-Upload a document → index it → ask a question → RAGForge retrieves the relevant passages and generates a grounded answer with sources.
+<img width="1917" height="1013" alt="Screenshot 2026-08-26 145817" src="https://github.com/user-attachments/assets/f50b2e91-8d52-4c18-9b50-815ecef3010f" />
+
+
+<img width="1910" height="1025" alt="Screenshot 2026-08-26 142438" src="https://github.com/user-attachments/assets/9befcdef-5336-498f-867f-ddb19d011464" />
+
 
 ## 📜 License
 
