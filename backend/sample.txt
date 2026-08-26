@@ -1,0 +1,23 @@
+AWS Lambda
+
+AWS Lambda is a serverless computing service provided by Amazon Web Services. It allows developers to run code without provisioning or managing servers. Lambda automatically handles the underlying compute resources.
+
+AWS Lambda Execution
+
+Each AWS Lambda function has a maximum execution timeout of 15 minutes. If a function runs longer than the configured timeout, Lambda terminates the execution.
+
+Supported Languages
+
+AWS Lambda supports several programming languages, including Python, Java, JavaScript, TypeScript, Go, Ruby, and .NET. Developers can also use custom runtimes for additional languages.
+
+Retrieval-Augmented Generation
+
+RAG stands for Retrieval-Augmented Generation. A RAG system first retrieves relevant information from a collection of documents and then provides that information to a language model. This helps the model answer questions using external knowledge.
+
+Vector Databases
+
+A vector database stores numerical representations called embeddings. These embeddings allow systems to search documents based on semantic similarity rather than only matching exact keywords.
+
+BM25
+
+BM25 is a keyword-based information retrieval algorithm. It ranks documents based on how relevant their words are to a search query. BM25 is particularly useful when exact terms are important.
